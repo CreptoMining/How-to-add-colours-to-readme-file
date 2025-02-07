@@ -4,7 +4,7 @@ Learn to colorize any text in readme file in github
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-Markdown: <button onclick="copyToClipboard()">Copy</button>
-<pre id="codeBlock">
+Markdown:   
+
+```python
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-</pre>
